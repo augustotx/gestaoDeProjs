@@ -8,8 +8,12 @@ Projeto de Gestão de Projetos de Software do 7º Semestre (FEI)
 - Sebastian Citta - 24.123.068-9
 
 ## Papéis
-Augusto Teixeira - PM
+Augusto Teixeira - PO
+
 João Pedro - SM
+
 Luana Bortko - DEV
+
 Juan Citta - DEV
+
 Sebastian Citta - DEV
