@@ -17,3 +17,7 @@ Luana Bortko - DEV
 Juan Citta - DEV
 
 Sebastian Citta - DEV
+
+## Trello
+
+Histórias de usuário:<br> https://trello.com/invite/b/699e0e3790df650dff9040a7/ATTI9c12f40f6777047f940508e220acd90a7F250AC5/gestao-de-projetos-de-software
