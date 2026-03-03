@@ -21,3 +21,8 @@ Sebastian Citta - DEV
 ## Trello
 
 Histórias de usuário:<br> https://trello.com/invite/b/699e0e3790df650dff9040a7/ATTI9c12f40f6777047f940508e220acd90a7F250AC5/gestao-de-projetos-de-software
+
+
+## Diagrama de Casos de Uso
+
+<img width="310" height="639" alt="image" src="https://github.com/user-attachments/assets/3e52feed-b539-4682-9c1c-b31845652024" />
