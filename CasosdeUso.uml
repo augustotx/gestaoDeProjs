@@ -1,0 +1,21 @@
+@startuml
+left to right direction
+
+"Ouvinte" as User
+
+:User: --> (Criar Conta)
+:User: --> (Logar no sistema)
+:User: --> (Ouvir música)
+:User: --> (Criar playlists)
+:User: --> (Editar Playlist)
+:User: --> (Deletar Playlist)
+
+
+
+:Artista: --> (Criar Conta de Artista)
+:Artista: --> (Logar no sistema como Artista)
+:Artista: --> (Acessar Perfil)
+:Artista: --> (Fazer Upload de Música)
+:Artista: --> (Acessar Dashboard)
+@enduml
+
