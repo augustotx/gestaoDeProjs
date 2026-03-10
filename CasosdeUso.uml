@@ -1,21 +1,30 @@
 @startuml
 left to right direction
 
-"Ouvinte" as User
+actor "Ouvinte" as User
+actor "Artista" as Artista
+actor "API Google" as Google
 
-:User: --> (Criar Conta)
-:User: --> (Logar no sistema)
-:User: --> (Ouvir música)
-:User: --> (Criar playlists)
-:User: --> (Editar Playlist)
-:User: --> (Deletar Playlist)
+:Avaliador: --> (Criar Conta de Artista)
+User --> (Ouvir música)
+User --> (Criar playlists)
+User --> (Editar Playlist)
+User --> (Deletar Playlist)
+User --> (Assinar plano)
+User --> (Desvincular assinatura)
+User --> (Criar Conta de Ouvinte) 
+User --> (Logar no sistema como Ouvinte)
 
+Artista --> (Criar Conta de Artista)
+Artista --> (Logar no sistema como Artista)
+Artista --> (Acessar Perfil)
+Artista --> (Fazer Upload de Música)
+Artista --> (Ver renda)
+Artista --> (Ver número de streams)
 
+(Criar Conta de Ouvinte) <-- Google
+(Criar Conta de Artista) <-- Google
+(Logar no sistema como Ouvinte) <-- Google
+(Logar no sistema como Artista) <-- Google
 
-:Artista: --> (Criar Conta de Artista)
-:Artista: --> (Logar no sistema como Artista)
-:Artista: --> (Acessar Perfil)
-:Artista: --> (Fazer Upload de Música)
-:Artista: --> (Acessar Dashboard)
 @enduml
-
