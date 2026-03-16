@@ -185,7 +185,7 @@ antes de fazer commit.
 
 ---
 
-# bservação
+# Observação
 
 No momento ainda **não existe uma navbar ou menu de navegação**, então todas as páginas precisam ser acessadas manualmente pela URL.
 
