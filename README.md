@@ -25,4 +25,4 @@ Histórias de usuário:<br> https://trello.com/invite/b/699e0e3790df650dff9040a7
 
 ## Diagrama de Casos de Uso
 
-<img width="310" height="639" alt="image" src="https://github.com/user-attachments/assets/3e52feed-b539-4682-9c1c-b31845652024" />
+<img width="310" height="639" alt="image" src="assets/diagrama_casos_de_uso.png">
