@@ -1,4 +1,4 @@
 [submodule "waveformMain"]
 	path = waveformMain
-	url = https://github.com/augustotx/engSoft2
+	url = git@github.com:augustotx/engSoft2.git
 	branch = main
